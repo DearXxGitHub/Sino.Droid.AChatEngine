@@ -1,0 +1,4 @@
+<metadata>
+  <attr path="/api/package[@name='org.achartengine.tools']/class[@name='Pan']" name="name">NPan</attr>
+  <attr path="/api/package[@name='org.achartengine.renderer']/class[@name='XYSeriesRenderer.FillOutsideLine']/method[@name='getType' and count(parameter)=0]" name="name">GetTypes</attr>
+</metadata>
